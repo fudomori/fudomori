@@ -32,7 +32,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/QssGEmp
 
 - :zap: In my free time, I solve problems on codewars.com and read technical articles on habr.com
 
-- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-red?logo=telegram)](https://t.me/alexeyzems) [![Gmail Badge](https://img.shields.io/badge/Gmail-blue?logo=gmail)](mailto:alexeyzemsk@gmail.com)
+- 📫 How to contact me:  [![Telegram Badge](https://img.shields.io/badge/Telegram-red?logo=telegram)](https://t.me/alexeyzems)  [![Gmail Badge](https://img.shields.io/badge/Gmail-blue?logo=gmail)](mailto:alexeyzemsk@gmail.com)
 
 ---
 

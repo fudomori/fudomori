@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist:About Me:
+### :man_technologist: About Me:
 
 I am a Junior Frontend Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> I am 22 and I live in Moscow.
 

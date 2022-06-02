@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Junior Frontend Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> I am 22 and I live in Moscow.
+I am a Junior Frontend Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">. I am 22 and I live in Moscow.
 
 - :telescope: I am studying at the university in the direction of "Development, maintenance and security of information systems"
 
